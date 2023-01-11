@@ -1,4 +1,4 @@
-# SMP Bonus Crypto for Payment, Staking, Marketplace platform.
+# FEG Coin Crypto for Payment, Staking, Marketplace platform.
 
 <div align="center"><img src="https://makecoin.live/wp-content/uMPLOGO300.png)" /><br />
 </div>
