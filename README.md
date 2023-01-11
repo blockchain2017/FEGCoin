@@ -27,7 +27,7 @@ Enjoy regular profits You rewards are generated daily until the date lock stake 
 
 # CONTACT FINERGY COIN (FCG Coin)
 
-🌐 Website: https://www.fegfin.com/
+🌐 Website: https://www.fegfinnergy.com
 
 📄 Whitepaper : https://docs.fegfin.com
 
