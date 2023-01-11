@@ -1,6 +1,6 @@
 # FEG Coin Crypto for Payment, Staking, Marketplace platform.
 
-<div align="center"><img src="https://makecoin.live/wp-content/uploads/2023/01/FEG475X475.jpg)" /><br />
+<div align="center"><img src="(https://makecoin.live/wp-content/uploads/2023/01/FEG475X475.png)" /><br />
 </div>
 <div align="center">
   <h1><br />
