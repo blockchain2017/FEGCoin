@@ -29,7 +29,7 @@ Enjoy regular profits You rewards are generated daily until the date lock stake 
 
 🌐 Website: https://www.fegfinnergy.com
 
-📄 Whitepaper : https://docs.fegfin.com
+📄 Whitepaper : https://docs.fegfinnergy.com
 
 👨 Facebook : https://www.facebook.com/
 
