@@ -9,9 +9,11 @@
 </div>
 
 
-# FCG Coin Marketplace Platform
+# FCG Coin Platform
 
-FCG Coin Marketplace is an ecommerce platform. We have many products available for sale from members. We use FCG Coin as a medium of payment. Our platform has compiled products in each category to facilitate product search. And a convenient, fast payment method via Blockchain is safe for customers. And every transaction made through SMP Bonus will receive a 10% discount on every transaction.
+The entire PEG Coin Ecosystem comprises subsets of the entire FEG Platform Investment Project, as well as related products.
+
+It is therefore the keystone of the entire system and helps in the development of a comprehensive platform connecting the worlds of  industry blockchain & Crypto
 
 # Payment gateway
 FCG Coin ecommerce platform we have create tokens on Binance smart chain as a highly secure blockchain payment gateway with low fees and support for trading on top exchanges. Moreover, our marketing team is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
