@@ -1,10 +1,10 @@
-# FEG Coin Crypto for Payment, Staking, Marketplace platform.
+# FEG Coin, The Token Of The Investment Project.
 
 <div align="center"><img src="https://makecoin.live/wp-content/uploads/2023/01/FEG300X300.png)" /><br />
 </div>
 <div align="center">
   <h1><br />
-    <a href="https://www.smpbonus.com/" target="_blank">Go To Website<br />
+    <a href="https://fegfinnergy.com/" target="_blank">Go To Website<br />
 </a></h1>
 </div>
 
