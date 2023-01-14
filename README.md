@@ -33,10 +33,14 @@ Enjoy regular profits You rewards are generated daily until the date lock stake 
 
 📄 Whitepaper : https://docs.fegfinnergy.com
 
-👨 Facebook : https://www.facebook.com/
+👨 Facebook : https://www.facebook.com/FEGCOIN/
 
-👬 Telegram Group : https://t.me/
+👬 Telegram Group : https://t.me/fegfinergycoin
 
-📕 Youtube : 
+🔷 Twitter : https://twitter.com/FEGFINERGYCOIN/
+
+🔶 Instagram : https://www.instagram.com/fegfinergycoin
+
+📕 Youtube : https://www.youtube.com/@fegcoin
 
 🔒 Smart Contract : https://bscscan.com/token/0x501411cd21099391075de6b2894e1c30537a90ee
